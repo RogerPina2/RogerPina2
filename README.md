@@ -40,7 +40,6 @@ My name is Roger and ...:
 Meu nome é Roger e ...:
 
  - 👨🏾‍🎓 Atualmente estou no 7º semestre de Engenharia de Computação no Insper
- - 😄 I really like to learn
- - 📊 I'm working with Business Intelligence
- - 📚 Currently studying Azure and LGPD
- - 🌍 And I also like to travel
+ - 📈 Sou Diretor Executivo do Alpha Alumni
+ - 💡 Colaborador no Alpha EdTech
+
