@@ -22,10 +22,24 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/marcelorde391/)](https://www.youtube.com/user/marcelorde391/)
 -->
 
+<!--
+
 ### Hellooo! 👋🏾 Welcome to my profile
 
 My name is Roger and ...:
 
+ - 😄 I really like to learn
+ - 📊 I'm working with Business Intelligence
+ - 📚 Currently studying Azure and LGPD
+ - 🌍 And I also like to travel
+
+-->
+
+### Olá! 👋🏾 Bem-vindo ao meu perfil
+
+Meu nome é Roger e ...:
+
+ - 👨🏾‍🎓 Atualmente estou no 7º semestre de Engenharia de Computação no Insper
  - 😄 I really like to learn
  - 📊 I'm working with Business Intelligence
  - 📚 Currently studying Azure and LGPD
