@@ -53,6 +53,6 @@ Meu nome é Roger e ...:
 
 -->
 
-[![Roger's github stats](https://github-readme-stats.vercel.app/api?username=RogerPina2&theme=merko)](https://github.com/RogerPina2/github-readme-stats)
+[![Roger's github stats](https://github-readme-stats.vercel.app/api?username=beatrizmie&theme=merko)](https://github.com/beatrizmie/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerPina2&theme=merko)](https://github.com/RogerPina2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmie&theme=merko)](https://github.com/beatrizmie/github-readme-stats)
