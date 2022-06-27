@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋🏾 Welcome to my profile
 
-My name is Roger and ...:
+My name is Roger, tenho 21 anos e sou de São José dos Campos:
 
  - 😄 I really like to learn
  - 📊 I'm working with Business Intelligence
