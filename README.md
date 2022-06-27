@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋🏾 Welcome to my profile
 
-My name is Roger, tenho 21 anos e sou de São José dos Campos:
+My name is Roger and ...:
 
  - 😄 I really like to learn
  - 📊 I'm working with Business Intelligence
@@ -37,9 +37,9 @@ My name is Roger, tenho 21 anos e sou de São José dos Campos:
 
 ### Olá! 👋🏾 Bem-vindo ao meu perfil
 
-Meu nome é Roger e ...:
+Meu nome é Roger Pina, tenho 21 anos e sou de São José dos Campos
 
- - 👨🏾‍🎓 Atualmente estou no 7º semestre de Engenharia de Computação no Insper
+ - 👨🏾‍🎓 Atualmente estou no 9º semestre de Engenharia de Computação no Insper
  - 📈 Sou Diretor Executivo do Alpha Alumni
  - 💡 Colaborador no Alpha EdTech
 
