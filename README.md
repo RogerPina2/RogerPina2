@@ -41,7 +41,7 @@ Meu nome é Roger Pina, tenho 21 anos e sou de São José dos Campos
 
  - 👨🏾‍🎓 Atualmente estou no 9º semestre de Engenharia de Computação no Insper
  - 📈 Sou Diretor Executivo do Alpha Alumni
- - 💡 Conselheiro Técnico no Alpha EdTech
+ - 💡 Conselheiro Técnico na ONG Alpha EdTech
 
 <!-- 
 
